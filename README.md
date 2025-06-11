@@ -1,7 +1,7 @@
 # OTTR
 OTTR - The Oral ToxiciTy Reporter
 
-<p>OTTR is a mechanistic QSAR model to predict mammalian acute oral toxicity. Details on the development and evaluation of the model are available in the accompanying publication: <a href="https://academic.oup.com/toxsci/advance-article-abstract/doi/10.1093/toxsci/kfad025/7083447">Wijeyesakere, S.J., Auernhammer, T., Parks, A., and Wilson, D. (2023). Profiling mechanisms that drive acute oral toxicity in mammals and its prediction via machine learning. Published in Toxicological Sciences.</a></p>
+<p>OTTR is a mechanistic QSAR model to predict mammalian acute oral toxicity. Details on the development and evaluation of the model are available in the accompanying QMRF and associated publication: <a href="https://academic.oup.com/toxsci/advance-article-abstract/doi/10.1093/toxsci/kfad025/7083447">Wijeyesakere, S.J., Auernhammer, T., Parks, A., and Wilson, D. (2023). Profiling mechanisms that drive acute oral toxicity in mammals and its prediction via machine learning. Published in Toxicological Sciences.</a></p>
 
 <h2>How to install OTTR</h2>
 
